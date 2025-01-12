@@ -42,6 +42,8 @@ To create an installable theme zip file in `packages/<theme-name>/dist/`:
 yarn zip --theme <theme-name>
 ```
 
+
+
 ## Copyright & License
 
 Copyright (c) 2013-2025 Ghost Foundation - Released under the [MIT license](LICENSE).
