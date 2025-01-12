@@ -33,6 +33,10 @@ yarn zip
 
 This repo is synced automatically with [TryGhost/Themes](https://github.com/TryGhost/Themes) monorepo. If you're looking to contribute or raise an issue, head over to the main repository [TryGhost/Themes](https://github.com/TryGhost/Themes) where our official themes are developed.
 
+# Usage in AgentYum
+
+This Theme is currently being used by AgentYum [international food recipe collection](https://agentyum.com) app.
+
 # Copyright & License
 
 Copyright (c) 2013-2025 Ghost Foundation - Released under the [MIT license](LICENSE).
